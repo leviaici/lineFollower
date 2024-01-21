@@ -80,7 +80,7 @@
 
 ## Notes
 
-&emsp;Please note that this homework assignmenta is a part of my academic coursework at the University of Bucharest. Feel free to explore the code, documentation, and solutions to gain insights into the exciting world of robotics and computer science.
+&emsp;Please note that this homework assignmenta is a part of our academic coursework at the University of Bucharest. Feel free to explore the code, documentation, and solutions to gain insights into the exciting world of robotics and computer science.
 
 ## Disclaimer
 &emsp;This repository is for educational purposes, and you are encouraged to learn from it. However, please avoid direct copying of code for your own coursework.
