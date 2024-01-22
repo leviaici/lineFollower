@@ -5,7 +5,7 @@
 <img src = 'https://github.com/leviaici/lineFollower/blob/main/Images/IMG_7595.jpeg' align="right" height = 200 width = 150>
 &emsp;Welcome to our Line Follower Project developed during a one-day hackathon for our Robotics class at Uni! This project involves building a self-driven car that follows a black line on a white background. The car uses sensors to detect the line and adjust its movement to stay on the desired path. This is a fundamental robotics project that combines aspects of programming, electronics, and mechanical design to create an autonomous system.
 
-&emsp;The contributors of the Line Follower Project are myself, Mihai-Leonard Ionescu and Denis Ioja.
+&emsp;The contributors of the Line Follower Project are myself, Denis Ioja (@denisioja) and Mihai-Leonard Ionescu (@IonescuMihaiLeonard).
 
 <details>
 <summary><h2>Project Details</h2></summary>
