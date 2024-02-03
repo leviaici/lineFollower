@@ -27,7 +27,7 @@
 
 <details>
 <summary><h2>Where did we encounter problems?</h2></summary>
-  <img src = 'https://github.com/leviaici/lineFollower/blob/main/Images/IMG_7593.jpeg' align="right" height = 200 width = 300>
+  <img src = 'https://github.com/leviaici/lineFollower/blob/main/Images/IMG_7594.jpeg' align="right" height = 200 width = 300>
   <ol>- Designing a light yet fast and well proportioned chassis.</ol>
   <ol>- Being on time with the presentation.</ol>
   <ol>- Putting the screws on the chassis carefully so the chassis itself won't break.</ol>
